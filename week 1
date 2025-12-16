@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "week 1 tasks"
+git branch -M main
+git remote add origin <ссылка_на_репозиторий>
+git push -u origin main 
