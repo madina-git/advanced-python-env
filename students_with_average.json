@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Madina",
+        "age": 19,
+        "grades": [
+            85,
+            90,
+            78
+        ],
+        "average": 84.33333333333333
+    },
+    {
+        "name": "Umia",
+        "age": 13,
+        "grades": [
+            70,
+            80,
+            75
+        ],
+        "average": 75.0
+    },
+    {
+        "name": "Nurislam",
+        "age": 9,
+        "grades": [
+            95,
+            100,
+            92
+        ],
+        "average": 95.66666666666667
+    }
+]

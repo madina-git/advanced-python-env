@@ -1,4 +1,3 @@
-# функция нахождения НОД (алгоритм Евклида)
 def gcd(a, b):
     while b != 0:
         a, b = b, a % b
@@ -12,14 +11,13 @@ B = int(input("B = "))
 C = int(input("C = "))
 D = int(input("D = "))
 
-# числитель и знаменатель после вычитания
+
 numerator = A * D - C * B
 denominator = B * D
 
-# находим НОД
+
 g = gcd(abs(numerator), denominator)
 
-# сокращаем дробь
 numerator //= g
 denominator //= g
 

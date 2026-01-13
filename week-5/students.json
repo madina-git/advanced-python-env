@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Madina",
+        "age": 19,
+        "grades": [85, 90, 78]
+    },
+    {
+        "name": "Umia" , 
+        "age": 13,
+        "grades": [70, 80, 75]
+    },
+    {
+        "name": "Nurislam",
+        "age": 9,
+        "grades": [95, 100, 92]
+    }
+]
